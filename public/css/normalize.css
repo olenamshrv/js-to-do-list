@@ -376,7 +376,7 @@ input[type='submit'] {
 ::-webkit-file-upload-button {
   padding: 0;
   border: 0;
-  background: none;
+  /* background: none; */
 }
 
 input,
@@ -713,7 +713,7 @@ input {
   line-height: normal;
   padding: 0;
   border: 0;
-  background: 0;
+  /* background: 0; */
   box-shadow: 0 0 0 transparent;
 }
 
@@ -876,7 +876,7 @@ input:-ms-input-placeholder {
 
 input {
   background-color: inherit;
-  background-image: inherit;
+  /* background-image: inherit; */
   color: inherit;
 }
 
